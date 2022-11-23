@@ -14,9 +14,7 @@ Dit was het resuktaat vabn de Lighthouse Accessibility test op de Bijenkorf webs
 
 ![199015515-11940f53-febd-44d2-a0a7-4435fd565ea7](https://user-images.githubusercontent.com/112861488/203526503-973d7de0-0892-4ab7-a960-1b89a79b0cc8.jpeg)
 
-
-Schrijf een een samenvatting van de test bevindingen.
-
+De website heeft een score van 86, dit is een redelijk hoge score maar er zijn wel wat verbeter punten en het kan nog beter. Er zijn een aantal errors  die naar mijn mening niet al te lastig zijn om op te lossen. Je kunt hier meer informatie over vinden in de Wiki.
 
 ## Licentie
 
