@@ -1,15 +1,19 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-
 # WCAG Audit 
 
 Doe een WCAG test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## De Bijenkorf
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Voor deze opdracht heb ik gekozen voor de website van de Bijenkorf, ik heb deze website gekozen omdat ik er zelf vaak op zit en het vaak gebruik. De Bijenkorf is een luxe warenhuisketen met een zevental vestigingen in Nederland. 
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
+De Bijenkorf site:
+
+<img width="1470" alt="Schermafbeelding 2022-11-23 om 11 39 15 2" src="https://user-images.githubusercontent.com/112861488/203526395-4f23e762-c6f5-48d6-9a3d-be0cf2e3ba69.png">
+
+Dit was het resuktaat vabn de Lighthouse Accessibility test op de Bijenkorf website:
+
+![199015515-11940f53-febd-44d2-a0a7-4435fd565ea7](https://user-images.githubusercontent.com/112861488/203526503-973d7de0-0892-4ab7-a960-1b89a79b0cc8.jpeg)
+
 
 Schrijf een een samenvatting van de test bevindingen.
 
